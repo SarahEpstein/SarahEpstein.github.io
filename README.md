@@ -3,3 +3,6 @@ I am currently a junior at Lehigh University, where I am double majoring in Jour
 I developed an interest in photography at 12 years old, while I was at overnight camp in Maine. My first experiences with photography were old-school, using film, manual cameras and chemicals to eventually produce photographs. Having an understanding of how photography originated furthers my appreciation for the art form beyond the instant-gratification of modern photography.
 
 Sports have always been an integral part of my life. Whether playing, watching or photographing, I have always been drawn to the action of athletics. I love being a sports photographer because I am able to merge my passion for sports with my affinity for art, two things which are not traditionally mixed.
+
+(website)https://www.sarahlepstein.com/
+!(logo)https://www.sarahlepstein.com/
