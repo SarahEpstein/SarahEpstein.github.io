@@ -4,6 +4,6 @@ I developed an interest in photography at 12 years old, while I was at overnight
 
 Sports have always been an integral part of my life. Whether playing, watching or photographing, I have always been drawn to the action of athletics. I love being a sports photographer because I am able to merge my passion for sports with my affinity for art, two things which are not traditionally mixed.
 
-[Web](https://www.sarahlepstein.com/)
+[View my website](https://www.sarahlepstein.com/)
 
-[Instagram](https://www.instagram.com/saahepstein_photography)
+[Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
