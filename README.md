@@ -1,4 +1,5 @@
 ![photo](https://static1.squarespace.com/static/595e98114c8b03b59c91e1b4/t/595ee9b1bf629a49f1dc02b7/1499481355718/?format=1500w)
+
 I am currently a junior at Lehigh University, where I am double majoring in Journalism and Communications and Health, Medicine & Society. In addition to my studies I am an active member of my school community. I am an associate photography editor for Lehigh’s Brown & White newspaper, an online and print publication, and am also a member of the writing staff of the Brown & White. Additionally, I am the Vice President of Public Relations for my sorority, Kappa Delta, and serve on the staff of the Epitome, Lehigh’s Yearbook.
 
 I developed an interest in photography at 12 years old, while I was at overnight camp in Maine. My first experiences with photography were old-school, using film, manual cameras and chemicals to eventually produce photographs. Having an understanding of how photography originated furthers my appreciation for the art form beyond the instant-gratification of modern photography.
