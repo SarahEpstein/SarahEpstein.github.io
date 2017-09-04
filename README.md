@@ -9,3 +9,5 @@ Sports have always been an integral part of my life. Whether playing, watching o
 [View my website](https://www.sarahlepstein.com/)
 
 [Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
+
+![Graduate Student Distribution at Lehigh](SarahEpstein.github.io/GraduateInfographic.png)
