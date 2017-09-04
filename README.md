@@ -14,4 +14,6 @@ This is an infographic project, created using Canva. The data was sourced from L
 
 ![Graduate Student Distribution at Lehigh](SarahEpstein.github.io/GraduateInfographic.png)
 
+This is an infographic project, created using canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data does not take into account tie or playoff games. 
+
 ![Original Six Infographic](SarahEpstein.github.io/originalsix.pdf)
