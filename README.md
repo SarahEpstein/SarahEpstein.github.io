@@ -13,3 +13,5 @@ Sports have always been an integral part of my life. Whether playing, watching o
 This is an infographic project, created using Canva. The data was sourced from Lehigh University's Office of Institutional Research. The infographic shows the distribution of graduate students across the different colleges at Lehigh in Fall 2016. 
 
 ![Graduate Student Distribution at Lehigh](SarahEpstein.github.io/GraduateInfographic.png)
+
+![Original Six Infographic](SarahEpstein.github.io/originalsix.pdf)
