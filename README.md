@@ -21,3 +21,5 @@ This is an infographic project, created using Canva. It shows the winning precen
 This is a timeline of the Rio Olypmics, made using timelineJS
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=164K-VDePGs4Npwt93M2wc6gFWj2WodHQcRPMA8ShjkU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eYi6oxtI4oWhG3IkCiBzVLNyEqV_OAnn2dbryH264NQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
