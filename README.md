@@ -17,3 +17,5 @@ This is an infographic project, created using Canva. The data was sourced from L
 This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data does not take into account tie or playoff games. 
 
 ![Original Six Infographic](SarahEpstein.github.io/originalsix.pdf)
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=164K-VDePGs4Npwt93M2wc6gFWj2WodHQcRPMA8ShjkU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
