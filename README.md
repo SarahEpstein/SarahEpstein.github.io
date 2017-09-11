@@ -15,7 +15,7 @@ This is an infographic project, created using Canva. It shows the winning precen
 
 ![Original Six Infographic](SarahEpstein.github.io/OriginalSix.png)
 
-Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots. To view the data used to create this timeline, (click here.)[https://en.wikipedia.org/wiki/Tom_Brady] 
+Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots. To view the data used to create this timeline, [click here.](https://en.wikipedia.org/wiki/Tom_Brady) 
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eYi6oxtI4oWhG3IkCiBzVLNyEqV_OAnn2dbryH264NQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
