@@ -10,19 +10,12 @@ Sports have always been an integral part of my life. Whether playing, watching o
 
 [Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
 
-This is an infographic project, created using Canva. The data was sourced from Lehigh University's Office of Institutional Research. The infographic shows the distribution of graduate students across the different colleges at Lehigh in Fall 2016. 
 
-![Graduate Student Distribution at Lehigh](SarahEpstein.github.io/GraduateInfographic.png)
-
-This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data does not take into account tie or playoff games. 
+This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data does not take into account tie or playoff games. To view the data used to create this infographic, [click here.](https://en.wikipedia.org/wiki/List_of_all-time_NHL_standings#Regular_season) 
 
 ![Original Six Infographic](SarahEpstein.github.io/OriginalSix.png)
 
-This is a timeline of the Rio Olypmics, made using timelineJS
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=164K-VDePGs4Npwt93M2wc6gFWj2WodHQcRPMA8ShjkU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots.
+Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots. To view the data used to create this timeline, (click here.)[https://en.wikipedia.org/wiki/Tom_Brady] 
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eYi6oxtI4oWhG3IkCiBzVLNyEqV_OAnn2dbryH264NQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
