@@ -16,3 +16,7 @@ Below you will find a timeline on Tom Brady and his football career with the Uni
 
 
 ![Undergraduate Enrollment](SarahEpstein.github.io/Undergraduate_Enrollment_Distribution_at_Lehigh_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
+
+Below is a line graph showing the change in percentage of undergraduate enrollment per college at Lehigh University from 2007-2016. The data was sourced from the Lehigh University Office of Institutional Research. 
+
+![Change in Percentage of Undergraduate Enrollment per College](SarahEpstein.github.io/Change_in_Percentage_of_Undergraduate_Enrollment_Per_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png)
