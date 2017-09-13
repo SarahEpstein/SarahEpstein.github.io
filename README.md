@@ -20,3 +20,8 @@ Below you will find a timeline on Tom Brady and his football career with the Uni
 Below is a line graph showing the change in percentage of undergraduate enrollment per college at Lehigh University from 2007-2016. The data was sourced from the Lehigh University Office of Institutional Research. 
 
 ![Change in Percentage of Undergraduate Enrollment per College](SarahEpstein.github.io/Change_in_Percentage_of_Undergraduate_Enrollment_Per_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png)
+
+
+Below is a line graph showing Patrice Bergeron's goals, assists, and points over the course of his NHL career. The data does not include seasons that were played partially due to injury, which are 2004-2005 and 2007-2008. The data spans from the 2003-2004 season to the 2016-2017 season. The data was sourced from hockey-reference.com. 
+
+![Patrice Bergeron](SarahEpstein.github.io/Patrice_Bergeron's_Change_in_Goals,_Assists,_and_Points_Per_Full_NHL_Season_Goals_Assists_Points_chartbuilder.png)
