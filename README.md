@@ -28,4 +28,4 @@ Below is a line graph showing Patrice Bergeron's goals, assists, and points over
 
 Below is a map of the arts centers in Bethlehem, PA. 
 
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1dzkBvl3o9KRuhEzTob-VFBjxU6AWlJmGCQ7sc6yq&amp;viz=MAP&amp;h=false&amp;lat=40.61163353654582&amp;lng=-75.37162720183716&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="900" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1dzkBvl3o9KRuhEzTob-VFBjxU6AWlJmGCQ7sc6yq&amp;viz=MAP&amp;h=false&amp;lat=40.61163353654582&amp;lng=-75.37162720183716&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
