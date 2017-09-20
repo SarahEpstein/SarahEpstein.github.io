@@ -29,3 +29,9 @@ Below is a line graph showing Patrice Bergeron's goals, assists, and points over
 Below is a map of the arts centers in Bethlehem, PA. 
 
 <iframe width="600" height="400" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1dzkBvl3o9KRuhEzTob-VFBjxU6AWlJmGCQ7sc6yq&amp;viz=MAP&amp;h=false&amp;lat=40.61163353654582&amp;lng=-75.37162720183716&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
+Below is a map showing the location of all of Boston sports team's championship wins.
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+19NOPR08dO4xPUw9CMEGlX2hKrR3jWmeH0RXZ0veY&amp;viz=MAP&amp;h=false&amp;lat=53.38980024228108&amp;lng=-99.71465683377266&amp;t=1&amp;z=3&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
