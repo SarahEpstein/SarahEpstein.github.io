@@ -25,3 +25,7 @@ Below is a line graph showing the change in percentage of undergraduate enrollme
 Below is a line graph showing Patrice Bergeron's goals, assists, and points over the course of his NHL career. The data does not include seasons that were played partially due to injury, which are 2004-2005 and 2007-2008. The data spans from the 2003-2004 season to the 2016-2017 season. The data was sourced from hockey-reference.com. 
 
 ![Patrice Bergeron](SarahEpstein.github.io/Patrice_Bergeron's_Change_in_Goals,_Assists,_and_Points_Per_Full_NHL_Season_Goals_Assists_Points_chartbuilder.png)
+
+Below is a map of the arts centers in Bethlehem, PA. 
+
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1dzkBvl3o9KRuhEzTob-VFBjxU6AWlJmGCQ7sc6yq&amp;viz=MAP&amp;h=false&amp;lat=40.61163353654582&amp;lng=-75.37162720183716&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
