@@ -45,5 +45,6 @@ Below is a Tableau map showing the trends in baby names in te United States from
 </html>
 
 
-![comic 1] 
-![comic 2]
+![comic 1](SarahEpstein.github.io/comic 1.png)
+
+![comic 2](SarahEpstein.github.io/comic 2.png)
