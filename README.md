@@ -5,6 +5,12 @@
 [Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
 
 
+Below, you will find a fictional comic strip
+
+![comic 1](SarahEpstein.github.io/comic 1.png)
+
+![comic 2](SarahEpstein.github.io/comic 2.png)
+
 This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data was recalculated to not include tie or playoff games. To view the data used to create this infographic, [click here.](https://en.wikipedia.org/wiki/List_of_all-time_NHL_standings#Regular_season) 
 
 ![Original Six Infographic](SarahEpstein.github.io/INFOGRAPHIC_Updated.png)
@@ -29,12 +35,6 @@ Below is a map showing the location of all of Boston sports team's championship 
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+19NOPR08dO4xPUw9CMEGlX2hKrR3jWmeH0RXZ0veY&amp;viz=MAP&amp;h=false&amp;lat=53.38980024228108&amp;lng=-99.71465683377266&amp;t=1&amp;z=3&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-
-Below you will find a fictional comic strip
-
-![comic 1](SarahEpstein.github.io/comic 1.png)
-
-![comic 2](SarahEpstein.github.io/comic 2.png)
 
 
 Below you will find a Tableau data story, displaying various datasets across NCAA-Division I schools, including their total athletic expenses and revenue and head coach salaries for men and women
