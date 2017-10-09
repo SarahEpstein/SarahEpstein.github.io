@@ -5,9 +5,9 @@
 [Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
 
 
-This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data does not take into account tie or playoff games. To view the data used to create this infographic, [click here.](https://en.wikipedia.org/wiki/List_of_all-time_NHL_standings#Regular_season) 
+This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data was recalculated to not include tie or playoff games. To view the data used to create this infographic, [click here.](https://en.wikipedia.org/wiki/List_of_all-time_NHL_standings#Regular_season) 
 
-![Original Six Infographic](SarahEpstein.github.io/OriginalSix.png)
+![Original Six Infographic](SarahEpstein.github.io/INFOGRAPHIC_Updated.png)
 
 Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots. To view the data used to create this timeline, [click here.](https://en.wikipedia.org/wiki/Tom_Brady) 
 
