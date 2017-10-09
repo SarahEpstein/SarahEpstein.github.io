@@ -19,7 +19,7 @@ Below you will find a timeline on Tom Brady and his football career with the Uni
 
 Below is a line graph showing Patrice Bergeron's goals, assists, and points over the course of his NHL career. The data does not include seasons that were played partially due to injury, which are 2004-2005 and 2007-2008. The data spans from the 2003-2004 season to the 2016-2017 season. The data was sourced from hockey-reference.com. 
 
-![Patrice Bergeron](SarahEpstein.github.io/Patrice_Bergeron's_Change_in_Goals,_Assists,_and_Points_Per_Full_NHL_Season_Goals_Assists_Points_chartbuilder.png)
+![Patrice Bergeron](SarahEpstein.github.io/Patrice_Bergeron's_Change_in_Goals,_Assists_and_Points_Per_Full_NHL_Season_Goals_Assists_Points_chartbuilder.png)
 
 
 Below is a map showing the location of all of Boston sports team's championship wins.
