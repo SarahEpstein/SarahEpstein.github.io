@@ -12,7 +12,7 @@ This is an infographic project, created using Canva. It shows the winning precen
 Below you will find a timeline on Tom Brady and his football career with the University of Michigan and the New England Patriots. To view the data used to create this timeline, [click here.](https://en.wikipedia.org/wiki/Tom_Brady) 
 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eYi6oxtI4oWhG3IkCiBzVLNyEqV_OAnn2dbryH264NQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1eYi6oxtI4oWhG3IkCiBzVLNyEqV_OAnn2dbryH264NQ&font=Default&lang=en&initial_zoom=2&height=800' width='100%' height='800' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 Below is a line graph showing Patrice Bergeron's goals, assists, and points over the course of his NHL career. The data does not include seasons that were played partially due to injury, which are 2004-2005 and 2007-2008. The data spans from the 2003-2004 season to the 2016-2017 season. The data was sourced from hockey-reference.com. 
