@@ -4,7 +4,7 @@
 
 [Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
 
-![Comic}(SarahEpstein.github.io/Screen Shot 2017-10-10 at 7.43.55 PM.png)
+![Comic](SarahEpstein.github.io/Screen Shot 2017-10-10 at 7.43.55 PM.png)
 
 
 This is an infographic project, created using Canva. It shows the winning precentages for the NHL's Original Six teams from their start date through the 2017 regular season. The data was recalculated to not include tie or playoff games. To view the data used to create this infographic, [click here.](https://en.wikipedia.org/wiki/List_of_all-time_NHL_standings#Regular_season) 
