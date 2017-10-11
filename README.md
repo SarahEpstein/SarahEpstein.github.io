@@ -1,9 +1,3 @@
-![photo](https://static1.squarespace.com/static/595e98114c8b03b59c91e1b4/t/595ee9b1bf629a49f1dc02b7/1499481355718/?format=1500w)
-
-[View my website](https://www.sarahlepstein.com/)
-
-[Follow me on Instagram](https://www.instagram.com/saahepstein_photography)
-
 ![Comic](SarahEpstein.github.io/Screen Shot 2017-10-10 at 7.43.55 PM.png)
 
 
