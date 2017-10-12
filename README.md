@@ -1,4 +1,4 @@
-<h2>Hi!
+<h2>Hi!</h2>
 
 ![Comic](SarahEpstein.github.io/Screen Shot 2017-10-10 at 7.43.55 PM.png)
 
